@@ -1,3 +1,6 @@
+<div align="center">
+    <img align="center"  height="140em" width="350" alt="Rodrigo" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
+    </div>
 ### Olá!! Meu nome e Rodrigo Barros 
 
 - 👀 Eu estou procurando um estagio atualmente
