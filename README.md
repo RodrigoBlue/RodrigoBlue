@@ -1,9 +1,10 @@
 <div align="center">
     <img align="center"  height="140em" width="350" alt="Rodrigo" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
     </div>
-### Olá!! Meu nome e Rodrigo Barros 
+# Olá!! Meu nome e Rodrigo Barros 
 
-- 👀 Eu estou procurando um estagio atualmente
+- ✨ Recém formado no curso Administrador de Banco de Dados
+- 👀 Eu estou procurando um estágio atualmente
 - 🌱 Estou me aprimorando em Python e DBA
 - 💞️ Contate-me no email: rodrigo12sk@gmail.com
 
