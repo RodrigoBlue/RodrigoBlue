@@ -3,7 +3,7 @@
     </div>
 # Olá!! Meu nome e Rodrigo Barros 
 
-- ✨ Recém formado no curso Administrador de Banco de Dados
+
 - 👀 Eu estou procurando um estágio atualmente
 - 🌱 Estou me aprimorando em Python e DBA
 - 💞️ Contate-me no email: rodrigo12sk@gmail.com
